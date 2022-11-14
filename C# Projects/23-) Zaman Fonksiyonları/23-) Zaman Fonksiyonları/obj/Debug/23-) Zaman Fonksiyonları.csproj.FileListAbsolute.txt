@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\23-) Zaman Fonksiyonları\23-) Zaman Fonksiyonları\bin\Debug\23-) Zaman Fonksiyonları.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\23-) Zaman Fonksiyonları\23-) Zaman Fonksiyonları\bin\Debug\23-) Zaman Fonksiyonları.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\23-) Zaman Fonksiyonları\23-) Zaman Fonksiyonları\bin\Debug\23-) Zaman Fonksiyonları.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\23-) Zaman Fonksiyonları\23-) Zaman Fonksiyonları\obj\Debug\23-) Zaman Fonksiyonları.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\23-) Zaman Fonksiyonları\23-) Zaman Fonksiyonları\obj\Debug\23-) Zaman Fonksiyonları.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\23-) Zaman Fonksiyonları\23-) Zaman Fonksiyonları\obj\Debug\23-) Zaman Fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\23-) Zaman Fonksiyonları\23-) Zaman Fonksiyonları\obj\Debug\23-) Zaman Fonksiyonları.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\23-) Zaman Fonksiyonları\23-) Zaman Fonksiyonları\obj\Debug\23-) Zaman Fonksiyonları.pdb

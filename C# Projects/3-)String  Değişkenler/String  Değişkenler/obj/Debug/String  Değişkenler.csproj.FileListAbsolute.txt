@@ -1,0 +1,16 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\String  Değişkenler\String  Değişkenler\bin\Debug\String  Değişkenler.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\String  Değişkenler\String  Değişkenler\bin\Debug\String  Değişkenler.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\String  Değişkenler\String  Değişkenler\bin\Debug\String  Değişkenler.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\3-)String  Değişkenler\String  Değişkenler\bin\Debug\String  Değişkenler.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\3-)String  Değişkenler\String  Değişkenler\bin\Debug\String  Değişkenler.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\3-)String  Değişkenler\String  Değişkenler\bin\Debug\String  Değişkenler.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\3-)String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\3-)String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\3-)String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\3-)String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\3-)String  Değişkenler\String  Değişkenler\obj\Debug\String  Değişkenler.pdb

@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\34-) Sınıflar-Çok Biçimlikik-5\34-) Sınıflar-Çok Biçimlikik-5\bin\Debug\34-) Sınıflar-Çok Biçimlikik-5.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\34-) Sınıflar-Çok Biçimlikik-5\34-) Sınıflar-Çok Biçimlikik-5\bin\Debug\34-) Sınıflar-Çok Biçimlikik-5.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\34-) Sınıflar-Çok Biçimlikik-5\34-) Sınıflar-Çok Biçimlikik-5\bin\Debug\34-) Sınıflar-Çok Biçimlikik-5.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\34-) Sınıflar-Çok Biçimlikik-5\34-) Sınıflar-Çok Biçimlikik-5\obj\Debug\34-) Sınıflar-Çok Biçimlikik-5.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\34-) Sınıflar-Çok Biçimlikik-5\34-) Sınıflar-Çok Biçimlikik-5\obj\Debug\34-) Sınıflar-Çok Biçimlikik-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\34-) Sınıflar-Çok Biçimlikik-5\34-) Sınıflar-Çok Biçimlikik-5\obj\Debug\34-) Sınıflar-Çok Biçimlikik-5.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\34-) Sınıflar-Çok Biçimlikik-5\34-) Sınıflar-Çok Biçimlikik-5\obj\Debug\34-) Sınıflar-Çok Biçimlikik-5.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\34-) Sınıflar-Çok Biçimlikik-5\34-) Sınıflar-Çok Biçimlikik-5\obj\Debug\34-) Sınıflar-Çok Biçimlikik-5.pdb

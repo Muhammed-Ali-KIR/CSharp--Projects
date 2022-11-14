@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\35-) Ref Out Kullanımı\35-) Ref Out Kullanımı\bin\Debug\35-) Ref Out Kullanımı.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\35-) Ref Out Kullanımı\35-) Ref Out Kullanımı\bin\Debug\35-) Ref Out Kullanımı.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\35-) Ref Out Kullanımı\35-) Ref Out Kullanımı\bin\Debug\35-) Ref Out Kullanımı.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\35-) Ref Out Kullanımı\35-) Ref Out Kullanımı\obj\Debug\35-) Ref Out Kullanımı.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\35-) Ref Out Kullanımı\35-) Ref Out Kullanımı\obj\Debug\35-) Ref Out Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\35-) Ref Out Kullanımı\35-) Ref Out Kullanımı\obj\Debug\35-) Ref Out Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\35-) Ref Out Kullanımı\35-) Ref Out Kullanımı\obj\Debug\35-) Ref Out Kullanımı.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\35-) Ref Out Kullanımı\35-) Ref Out Kullanımı\obj\Debug\35-) Ref Out Kullanımı.pdb

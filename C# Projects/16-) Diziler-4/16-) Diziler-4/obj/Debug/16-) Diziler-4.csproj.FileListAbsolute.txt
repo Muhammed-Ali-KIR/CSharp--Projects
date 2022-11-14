@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\16-) Diziler-4\16-) Diziler-4\bin\Debug\16-) Diziler-4.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\16-) Diziler-4\16-) Diziler-4\bin\Debug\16-) Diziler-4.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\16-) Diziler-4\16-) Diziler-4\bin\Debug\16-) Diziler-4.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\16-) Diziler-4\16-) Diziler-4\obj\Debug\16-) Diziler-4.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\16-) Diziler-4\16-) Diziler-4\obj\Debug\16-) Diziler-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\16-) Diziler-4\16-) Diziler-4\obj\Debug\16-) Diziler-4.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\16-) Diziler-4\16-) Diziler-4\obj\Debug\16-) Diziler-4.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\16-) Diziler-4\16-) Diziler-4\obj\Debug\16-) Diziler-4.pdb

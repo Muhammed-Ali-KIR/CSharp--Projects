@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\17-) Random Komutu\17-) Random Komutu\obj\Debug\17-) Random Komutu.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\17-) Random Komutu\17-) Random Komutu\obj\Debug\17-) Random Komutu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\17-) Random Komutu\17-) Random Komutu\obj\Debug\17-) Random Komutu.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\17-) Random Komutu\17-) Random Komutu\bin\Debug\17-) Random Komutu.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\17-) Random Komutu\17-) Random Komutu\bin\Debug\17-) Random Komutu.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\17-) Random Komutu\17-) Random Komutu\bin\Debug\17-) Random Komutu.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\17-) Random Komutu\17-) Random Komutu\obj\Debug\17-) Random Komutu.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\17-) Random Komutu\17-) Random Komutu\obj\Debug\17-) Random Komutu.pdb

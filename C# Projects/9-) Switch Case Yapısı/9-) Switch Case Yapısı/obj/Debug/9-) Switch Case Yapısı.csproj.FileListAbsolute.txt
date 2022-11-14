@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\9-) Switch Case Yapısı\9-) Switch Case Yapısı\bin\Debug\9-) Switch Case Yapısı.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\9-) Switch Case Yapısı\9-) Switch Case Yapısı\bin\Debug\9-) Switch Case Yapısı.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\9-) Switch Case Yapısı\9-) Switch Case Yapısı\bin\Debug\9-) Switch Case Yapısı.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\9-) Switch Case Yapısı\9-) Switch Case Yapısı\obj\Debug\9-) Switch Case Yapısı.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\9-) Switch Case Yapısı\9-) Switch Case Yapısı\obj\Debug\9-) Switch Case Yapısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\9-) Switch Case Yapısı\9-) Switch Case Yapısı\obj\Debug\9-) Switch Case Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\9-) Switch Case Yapısı\9-) Switch Case Yapısı\obj\Debug\9-) Switch Case Yapısı.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\9-) Switch Case Yapısı\9-) Switch Case Yapısı\obj\Debug\9-) Switch Case Yapısı.pdb

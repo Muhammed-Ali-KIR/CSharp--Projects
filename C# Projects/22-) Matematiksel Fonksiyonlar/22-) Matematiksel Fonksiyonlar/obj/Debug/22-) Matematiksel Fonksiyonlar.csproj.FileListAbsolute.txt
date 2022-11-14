@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\22-) Matematiksel Fonksiyonlar\22-) Matematiksel Fonksiyonlar\obj\Debug\22-) Matematiksel Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\22-) Matematiksel Fonksiyonlar\22-) Matematiksel Fonksiyonlar\obj\Debug\22-) Matematiksel Fonksiyonlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\22-) Matematiksel Fonksiyonlar\22-) Matematiksel Fonksiyonlar\obj\Debug\22-) Matematiksel Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\22-) Matematiksel Fonksiyonlar\22-) Matematiksel Fonksiyonlar\bin\Debug\22-) Matematiksel Fonksiyonlar.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\22-) Matematiksel Fonksiyonlar\22-) Matematiksel Fonksiyonlar\bin\Debug\22-) Matematiksel Fonksiyonlar.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\22-) Matematiksel Fonksiyonlar\22-) Matematiksel Fonksiyonlar\bin\Debug\22-) Matematiksel Fonksiyonlar.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\22-) Matematiksel Fonksiyonlar\22-) Matematiksel Fonksiyonlar\obj\Debug\22-) Matematiksel Fonksiyonlar.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\22-) Matematiksel Fonksiyonlar\22-) Matematiksel Fonksiyonlar\obj\Debug\22-) Matematiksel Fonksiyonlar.pdb

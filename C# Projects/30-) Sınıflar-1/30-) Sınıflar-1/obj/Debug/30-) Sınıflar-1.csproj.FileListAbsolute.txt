@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\Düzce  Üniversitesi\2022-2023(2.Sınıf)\C# DENEMELERİM\30-) Sınıflar-1\30-) Sınıflar-1\bin\Debug\30-) Sınıflar-1.exe.config
+C:\Users\ali_2\Desktop\Düzce  Üniversitesi\2022-2023(2.Sınıf)\C# DENEMELERİM\30-) Sınıflar-1\30-) Sınıflar-1\bin\Debug\30-) Sınıflar-1.exe
+C:\Users\ali_2\Desktop\Düzce  Üniversitesi\2022-2023(2.Sınıf)\C# DENEMELERİM\30-) Sınıflar-1\30-) Sınıflar-1\bin\Debug\30-) Sınıflar-1.pdb
+C:\Users\ali_2\Desktop\Düzce  Üniversitesi\2022-2023(2.Sınıf)\C# DENEMELERİM\30-) Sınıflar-1\30-) Sınıflar-1\obj\Debug\30-) Sınıflar-1.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\Düzce  Üniversitesi\2022-2023(2.Sınıf)\C# DENEMELERİM\30-) Sınıflar-1\30-) Sınıflar-1\obj\Debug\30-) Sınıflar-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\Düzce  Üniversitesi\2022-2023(2.Sınıf)\C# DENEMELERİM\30-) Sınıflar-1\30-) Sınıflar-1\obj\Debug\30-) Sınıflar-1.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\Düzce  Üniversitesi\2022-2023(2.Sınıf)\C# DENEMELERİM\30-) Sınıflar-1\30-) Sınıflar-1\obj\Debug\30-) Sınıflar-1.exe
+C:\Users\ali_2\Desktop\Düzce  Üniversitesi\2022-2023(2.Sınıf)\C# DENEMELERİM\30-) Sınıflar-1\30-) Sınıflar-1\obj\Debug\30-) Sınıflar-1.pdb

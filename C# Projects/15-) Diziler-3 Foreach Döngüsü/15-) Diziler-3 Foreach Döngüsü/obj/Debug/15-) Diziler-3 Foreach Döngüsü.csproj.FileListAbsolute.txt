@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\15-) Diziler-3 Foreach Döngüsü\15-) Diziler-3 Foreach Döngüsü\bin\Debug\15-) Diziler-3 Foreach Döngüsü.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\15-) Diziler-3 Foreach Döngüsü\15-) Diziler-3 Foreach Döngüsü\bin\Debug\15-) Diziler-3 Foreach Döngüsü.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\15-) Diziler-3 Foreach Döngüsü\15-) Diziler-3 Foreach Döngüsü\bin\Debug\15-) Diziler-3 Foreach Döngüsü.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\15-) Diziler-3 Foreach Döngüsü\15-) Diziler-3 Foreach Döngüsü\obj\Debug\15-) Diziler-3 Foreach Döngüsü.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\15-) Diziler-3 Foreach Döngüsü\15-) Diziler-3 Foreach Döngüsü\obj\Debug\15-) Diziler-3 Foreach Döngüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\15-) Diziler-3 Foreach Döngüsü\15-) Diziler-3 Foreach Döngüsü\obj\Debug\15-) Diziler-3 Foreach Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\15-) Diziler-3 Foreach Döngüsü\15-) Diziler-3 Foreach Döngüsü\obj\Debug\15-) Diziler-3 Foreach Döngüsü.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\15-) Diziler-3 Foreach Döngüsü\15-) Diziler-3 Foreach Döngüsü\obj\Debug\15-) Diziler-3 Foreach Döngüsü.pdb

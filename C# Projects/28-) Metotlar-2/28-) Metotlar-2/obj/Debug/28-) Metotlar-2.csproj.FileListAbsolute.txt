@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\28-) Metotlar-2\28-) Metotlar-2\bin\Debug\28-) Metotlar-2.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\28-) Metotlar-2\28-) Metotlar-2\bin\Debug\28-) Metotlar-2.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\28-) Metotlar-2\28-) Metotlar-2\bin\Debug\28-) Metotlar-2.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\28-) Metotlar-2\28-) Metotlar-2\obj\Debug\28-) Metotlar-2.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\28-) Metotlar-2\28-) Metotlar-2\obj\Debug\28-) Metotlar-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\28-) Metotlar-2\28-) Metotlar-2\obj\Debug\28-) Metotlar-2.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\28-) Metotlar-2\28-) Metotlar-2\obj\Debug\28-) Metotlar-2.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\28-) Metotlar-2\28-) Metotlar-2\obj\Debug\28-) Metotlar-2.pdb

@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\12-) While Döngüsü\12-) While Döngüsü\bin\Debug\12-) While Döngüsü.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\12-) While Döngüsü\12-) While Döngüsü\bin\Debug\12-) While Döngüsü.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\12-) While Döngüsü\12-) While Döngüsü\bin\Debug\12-) While Döngüsü.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\12-) While Döngüsü\12-) While Döngüsü\obj\Debug\12-) While Döngüsü.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\12-) While Döngüsü\12-) While Döngüsü\obj\Debug\12-) While Döngüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\12-) While Döngüsü\12-) While Döngüsü\obj\Debug\12-) While Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\12-) While Döngüsü\12-) While Döngüsü\obj\Debug\12-) While Döngüsü.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\12-) While Döngüsü\12-) While Döngüsü\obj\Debug\12-) While Döngüsü.pdb

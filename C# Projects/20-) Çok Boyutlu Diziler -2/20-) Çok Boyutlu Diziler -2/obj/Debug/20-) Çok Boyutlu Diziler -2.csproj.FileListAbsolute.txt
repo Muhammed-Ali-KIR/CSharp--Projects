@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\20-) Çok Boyutlu Diziler -2\20-) Çok Boyutlu Diziler -2\bin\Debug\20-) Çok Boyutlu Diziler -2.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\20-) Çok Boyutlu Diziler -2\20-) Çok Boyutlu Diziler -2\bin\Debug\20-) Çok Boyutlu Diziler -2.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\20-) Çok Boyutlu Diziler -2\20-) Çok Boyutlu Diziler -2\bin\Debug\20-) Çok Boyutlu Diziler -2.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\20-) Çok Boyutlu Diziler -2\20-) Çok Boyutlu Diziler -2\obj\Debug\20-) Çok Boyutlu Diziler -2.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\20-) Çok Boyutlu Diziler -2\20-) Çok Boyutlu Diziler -2\obj\Debug\20-) Çok Boyutlu Diziler -2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\20-) Çok Boyutlu Diziler -2\20-) Çok Boyutlu Diziler -2\obj\Debug\20-) Çok Boyutlu Diziler -2.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\20-) Çok Boyutlu Diziler -2\20-) Çok Boyutlu Diziler -2\obj\Debug\20-) Çok Boyutlu Diziler -2.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\20-) Çok Boyutlu Diziler -2\20-) Çok Boyutlu Diziler -2\obj\Debug\20-) Çok Boyutlu Diziler -2.pdb

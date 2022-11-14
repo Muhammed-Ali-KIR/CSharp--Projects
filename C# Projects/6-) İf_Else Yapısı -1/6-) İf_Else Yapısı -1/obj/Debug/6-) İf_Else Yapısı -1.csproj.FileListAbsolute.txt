@@ -1,0 +1,8 @@
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\6-) İf_Else Yapısı -1\6-) İf_Else Yapısı -1\bin\Debug\6-) İf_Else Yapısı -1.exe.config
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\6-) İf_Else Yapısı -1\6-) İf_Else Yapısı -1\bin\Debug\6-) İf_Else Yapısı -1.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\6-) İf_Else Yapısı -1\6-) İf_Else Yapısı -1\bin\Debug\6-) İf_Else Yapısı -1.pdb
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\6-) İf_Else Yapısı -1\6-) İf_Else Yapısı -1\obj\Debug\6-) İf_Else Yapısı -1.csproj.AssemblyReference.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\6-) İf_Else Yapısı -1\6-) İf_Else Yapısı -1\obj\Debug\6-) İf_Else Yapısı -1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\6-) İf_Else Yapısı -1\6-) İf_Else Yapısı -1\obj\Debug\6-) İf_Else Yapısı -1.csproj.CoreCompileInputs.cache
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\6-) İf_Else Yapısı -1\6-) İf_Else Yapısı -1\obj\Debug\6-) İf_Else Yapısı -1.exe
+C:\Users\ali_2\Desktop\YOUTUBE C# DERSLERİM\6-) İf_Else Yapısı -1\6-) İf_Else Yapısı -1\obj\Debug\6-) İf_Else Yapısı -1.pdb

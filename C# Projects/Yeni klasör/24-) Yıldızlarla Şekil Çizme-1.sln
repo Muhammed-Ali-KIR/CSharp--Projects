@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-) Yıldızlarla Şekil Çizme-1", "24-) Yıldızlarla Şekil Çizme-1\24-) Yıldızlarla Şekil Çizme-1.csproj", "{2377B6DF-56FC-45AA-91BF-4A35D8C21A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2377B6DF-56FC-45AA-91BF-4A35D8C21A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2377B6DF-56FC-45AA-91BF-4A35D8C21A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2377B6DF-56FC-45AA-91BF-4A35D8C21A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2377B6DF-56FC-45AA-91BF-4A35D8C21A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E1B75D-34CF-4A2B-8C5B-03BFBD6BF8B0}
+	EndGlobalSection
+EndGlobal
